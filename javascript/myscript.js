@@ -48,7 +48,7 @@ theTime.add({
 	duration: 2000,
 	update: function(percent) {
 		var thePercent = Math.round(percent.progress);
-		document.querySelector('.container .sup').innerHTML= "Nhịp tim của anh " + (thePercent+899);
+		document.querySelector('.container .sup').innerHTML= "Nhịp tim của bé nè 🥺💕 " + (thePercent+899);
 	}
 });
 theTime.add({
